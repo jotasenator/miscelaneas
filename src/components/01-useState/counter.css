@@ -1,0 +1,28 @@
+body {
+  height: 100vh;
+}
+
+.simulator {
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.simulator > button {
+  width: 200px;
+  height: 100px;
+  background-color: skyblue;
+  color: brown;
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: xx-large;
+}
+.simulator-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

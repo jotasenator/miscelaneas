@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.button-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
